@@ -28,6 +28,11 @@
 <img height="20" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"> <img height="20" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"> <img height="20" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"> <img height="20" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 <img height="20" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 
+
+<br>
+<img src="https://github.com/yianzaratin/yianzaratin/blob/main/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
+<br>
+
 <!--
 **yianzaratin/yianzaratin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
